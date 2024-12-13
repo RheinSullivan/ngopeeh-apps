@@ -24,7 +24,7 @@ class SplashScreen extends StatelessWidget {
                 ),
               ),
               Text(
-                'Sweet &\nNaise Coffee',
+                'Ngopeeh &\nJajan ',
                 textAlign: TextAlign.center,
                 style: GoogleFonts.poppins(
                     fontSize: 24, fontWeight: FontWeight.bold, color: primary),
@@ -33,27 +33,28 @@ class SplashScreen extends StatelessWidget {
                 height: 12,
               ),
               Text(
-                'Naise Coffee can change The\natmosphere  in the morning',
+                'NGOPEEH & JAJAN can \nchange your morning mood!',
                 textAlign: TextAlign.center,
                 style: GoogleFonts.poppins(
                     fontSize: 12,
                     fontWeight: FontWeight.w500,
-                    color: Color(0xff687A79)),
+                    color: const Color(0xff687A79)),
               ),
               const SizedBox(
                 height: 32,
               ),
-              Container(
+              SizedBox(
                   width: 260,
                   height: 45,
                   child: TextButton(
-                    style: TextButton.styleFrom(
-                        backgroundColor: primary),
+                    style: TextButton.styleFrom(backgroundColor: primary),
                     onPressed: () {},
                     child: Text(
-                      "ORDER NOW",
-                    style: GoogleFonts.poppins(fontSize: 14, color: Colors.white),
-                    ),))
+                      "PESAN DISINI, BRO!",
+                      style: GoogleFonts.poppins(
+                          fontSize: 14, color: Colors.white),
+                    ),
+                  ))
             ],
           ),
         ));
