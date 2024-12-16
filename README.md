@@ -1,6 +1,4 @@
-# Ngopeeh & Nongkrons Apps
-
-Design UI by: # [Shaynakit](https://shaynakit.com/)
+# NGOPEEH Apps
 
 A new Flutter project.
 
