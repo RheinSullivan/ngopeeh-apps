@@ -39,7 +39,7 @@ class HomePageState extends State<HomePage> {
         child: Material(
           color: Colors.transparent,
           child: Container(
-            padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 10),
+            padding: const EdgeInsets.symmetric(vertical: 25, horizontal: 10),
             decoration: BoxDecoration(
               color: Colors.grey,
               borderRadius: BorderRadius.circular(8),
