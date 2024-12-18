@@ -2,11 +2,11 @@
 
 Apps by :
 
-## [Rhein Sullivan](https://rheinsullivan.my.id/)
+# [Rhein Sullivan](https://rheinsullivan.my.id/)
 
 Design UI by:
 
-# [Shaynakit](https://shaynakit.com/)
+## [Shaynakit](https://shaynakit.com/)
 
 A new Flutter project.
 
