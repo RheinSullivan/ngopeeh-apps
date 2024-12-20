@@ -24,7 +24,7 @@ class SplashScreen extends StatelessWidget {
         title: GestureDetector(
           onTap: _launchURL,
           child: const Text(
-            'Rhein Sullivan',
+            'Rhein Sullivan \n210511020',
             style: TextStyle(
               fontSize: 20,
               color: Color(0xffff0000),
